@@ -1,8 +1,8 @@
-# FrontCode
+# CodePrompt-Lite
 
 > 一个强大的 AI 终端应用，辅助开发者进行高效编程
 
-FrontCode 是一个类似于 Claude Code 的 AI 终端辅助开发工具，通过自然语言交互帮助你完成代码编写、文件操作、项目分析等开发任务。
+CodePrompt-Lite 是一个类似于 Claude Code 的 AI 终端辅助开发工具，通过自然语言交互帮助你完成代码编写、文件操作、项目分析等开发任务。
 
 ## 特性
 
